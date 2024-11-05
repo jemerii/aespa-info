@@ -1,0 +1,92 @@
+h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.header-sub{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: white;
+}
+
+a {
+    text-align: center;
+    display: block;
+}
+
+body {
+    background-image: url(images/aespa.webp);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    background-attachment: fixed;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+pre {
+    color: white;
+    text-align: center;
+}
+
+.div-list {
+    text-align: center;
+}
+
+UL.list {
+    margin-top: 0;
+    color: white;
+    display: inline-block;
+    text-align: left;
+    list-style-type: square;
+}
+
+#main-div {
+    max-width: fit-content;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.image-div {
+    display: inline-block;
+    width: 200px;
+    height: 160px;
+    margin: 3px;
+}
+
+.image {
+    width: 200px;
+}
+
+.image:hover {
+    opacity: 90%;
+}
+
+#mv-div {
+    max-width: fit-content;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.thumbnail-div:hover {
+    opacity: 90%;
+}
+
+.mv-thumbnail{
+    width: 600px;
+}
+
+.mv-title {
+    color: white;
+    text-align: center;
+    margin-top: 0;
+}
